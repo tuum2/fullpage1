@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color:#fff;
+}
+
+.s1{
+    background: url(../images/1.jpg);
+    background-size:cover;
+}
+
+.s2{
+    background: url(../images/2.jpg);
+    background-size:cover;
+}
+
+
+.s3{
+    background: url(../images/3.jpg);
+    background-size:cover;
+}
+
+
+.s4{
+    background: url(../images/4.jpg);
+    background-size:cover;
+}
+span{
+    background: #fff !important;
+}
+
+.fp-slidesNav.fp-bottom {
+   margin-left:2em !important;
+}
